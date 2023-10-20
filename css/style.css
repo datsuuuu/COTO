@@ -231,14 +231,14 @@ img {
 @media screen and (max-width: 767px) {
   .top-picture {
     padding-top: 120%;
-    background: url(/Users/datsu/Desktop/中級総復習　答え/2016_0714_011-2048x1367.webp) center center/cover;
+    background: url(img/2016_0714_011-2048x1367.webp) center center/cover;
   }
 }
 
 @media screen and (min-width: 768px) {
   .top-picture {
     padding-top: 55%;
-    background: url(/Users/datsu/Desktop/中級総復習　答え/2016_0714_011-2048x1367.webp) top right/100% no-repeat;
+    background: url(img/2016_0714_011-2048x1367.webp) top right/100% no-repeat;
   }
 }
 
