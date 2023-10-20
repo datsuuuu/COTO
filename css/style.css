@@ -231,14 +231,14 @@ img {
 @media screen and (max-width: 767px) {
   .top-picture {
     padding-top: 120%;
-    background: url(..img/2016_0714_011-2048x1367.webp) center center/cover;
+    background: url(https://raw.githubusercontent.com/datsuuuu/COTO/main/img/2016_0714_011-2048x1367.webp) center center/cover;
   }
 }
 
 @media screen and (min-width: 768px) {
   .top-picture {
     padding-top: 55%;
-    background: url(..img/2016_0714_011-2048x1367.webp) top right/100% no-repeat;
+    background: url(https://raw.githubusercontent.com/datsuuuu/COTO/main/img/2016_0714_011-2048x1367.webp) top right/100% no-repeat;
   }
 }
 
